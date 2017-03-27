@@ -1,0 +1,7 @@
+#Sun Mar 26 23:42:24 EDT 2017
+base.0=C\:\\Users\\15Cyndaquil\\Documents\\GitHub\\CSC-201-12.17\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b130b195bf77eb2db7ee54ad02194261e4066029
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\15Cyndaquil\\Documents\\GitHub\\CSC-201-12.17\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9fd2f2c803a8a6d6ff02d2f5d92010db0ff213c6\\classes.dex
+base.1=C\:\\Users\\15Cyndaquil\\Documents\\GitHub\\CSC-201-12.17\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9fd2f2c803a8a6d6ff02d2f5d92010db0ff213c6
+file.0=C\:\\Users\\15Cyndaquil\\Documents\\GitHub\\CSC-201-12.17\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b130b195bf77eb2db7ee54ad02194261e4066029\\classes.dex
